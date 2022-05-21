@@ -8,7 +8,7 @@ function Project() {
     return (
         <div className="project component__space" id="Portfolio">
             <div className="heading">
-                <h1 className="heading">My Latest Project</h1>
+                <h1 className="heading">My Lastest Project</h1>
                 <p className="heading p__color">
                     There are many variations of passages of Lorem Ipsum available,
                 </p>
