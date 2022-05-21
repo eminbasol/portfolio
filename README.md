@@ -1,4 +1,4 @@
-# deepTechShop eCommerce Platform
+# Portfolio Responsive Website 
 
 > eminbasol-2022
 > Portfolio Responsive with ReactJS
